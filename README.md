@@ -1,6 +1,7 @@
 
 # Team Member
 Sileshi Adal (TL), Dagmawi Mallie, Han Jinkun, Zhao Chongyang, Wang Wengang, Wang Jun
+http://capstone.utu.fi/en-RobotArm
 
 # Goal
 The ultimate goal of this project was to build an autonomous robot arm attached to the drone in order to grasp and drop objects to the desired place.
